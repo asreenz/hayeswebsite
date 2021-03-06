@@ -251,10 +251,10 @@ a:hover{color: rgb(255, 81, 0);}
     and (min-width: 200px) and (max-width: 600px){
     .tab-a
     {
-        width: 50%;
         bottom: 0;
         text-align:justify;
         font-size:.5rem;
+        padding-top: 0;
     }
     #home-tab, #about-tab, #writing-tab{
         height: 200px;
